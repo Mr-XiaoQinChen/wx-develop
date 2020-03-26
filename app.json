@@ -2,7 +2,8 @@
   "pages": [
     "pages/index/index",
     "pages/ticket/index",
-    "pages/my/index"
+    "pages/my/index",
+    "pages/home/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -11,7 +12,8 @@
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
-    "list": [{
+    "list": [
+      {
         "text": "首页",
         "iconPath": "/icons/home-default.png",
         "selectedIconPath": "/icons/home-active.png",
@@ -32,9 +34,9 @@
     ],
     "color": "#D78B09",
     "selectedColor": "#fff",
-    "backgroundColor":"#FECA49",
-    "borderStyle":"white"
+    "backgroundColor": "#FECA49",
+    "borderStyle": "white"
   },
-    "style": "v2",
-    "sitemapLocation": "sitemap.json"
-  }
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
