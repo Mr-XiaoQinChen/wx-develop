@@ -2,27 +2,60 @@
 <swiper class="box" indicator-dots indicator-color="rgba(255,255,255,0.6)" indicator-active-color="#fff" autoplay circular interval="3000" duration="1000">
 	<swiper-item>
 		<navigator url="">
-			<image src="../../static/uploads/slide_1.jpg"></image>
+			<image src=" https://mr-xiaoqinchen.github.io/wx-app-static/uploads/slide_1.jpg"></image>
 		</navigator>
 	</swiper-item>
 	<swiper-item>
 		<navigator url="">
-			<image src="../../static/uploads/slide_2.jpg"></image>
+			<image src=" https://mr-xiaoqinchen.github.io/wx-app-static/uploads/slide_2.jpg"></image>
 		</navigator>
 	</swiper-item>
 	<swiper-item>
 		<navigator url="">
-			<image src="../../static/uploads/slide_3.jpg"></image>
+			<image src=" https://mr-xiaoqinchen.github.io/wx-app-static/uploads/slide_3.jpg"></image>
 		</navigator>
 	</swiper-item>
 	<swiper-item>
 		<navigator url="">
-			<image src="../../static/uploads/slide_4.jpg"></image>
+			<image src=" https://mr-xiaoqinchen.github.io/wx-app-static/uploads/slide_4.jpg"></image>
 		</navigator>
 	</swiper-item>
 	<swiper-item>
 		<navigator url="">
-			<image src="../../static/uploads/slide_5.jpg"></image>
+			<image src=" https://mr-xiaoqinchen.github.io/wx-app-static/uploads/slide_5.jpg"></image>
 		</navigator>
 	</swiper-item>
 </swiper>
+
+<!-- 乐园活动 -->
+<view class="title">乐园活动</view>
+
+<!-- 卡片列表 -->
+<view class="item">
+	<navigator url="">
+		<image src=" https://mr-xiaoqinchen.github.io/wx-app-static/uploads/item_1.png"></image>
+	</navigator>
+
+	<view class="infos">
+		<view class="name">摄影兴趣班- 7天教会你精通摄影，培养孩子兴趣从娃娃抓起</view>
+		<view class="price">免费</view>
+		<view class="details">
+			<text>200人已报名</text>
+			<text>本周六开始</text>
+		</view>
+	</view>
+</view>
+<view class="item">
+	<navigator url="">
+		<image src=" https://mr-xiaoqinchen.github.io/wx-app-static/uploads/item_2.png"></image>
+	</navigator>
+	
+	<view class="infos">
+		<view class="name">摄影兴趣班- 7天教会你精通摄影，培养孩子兴趣从娃娃抓起</view>
+		<view class="price">免费</view>
+		<view class="details">
+			<text>200人已报名</text>
+			<text>本周六开始</text>
+		</view>
+	</view>
+</view>
